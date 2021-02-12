@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rueda & Rueda Advogados**
 
-- 🌱 I’m currently learning **Node.Js, ASP .NET CORE.**
+- 🌱 I’m currently learning **Node.JS, ASP .NET CORE.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/victorfernandodev/](https://github.com/victorfernandodev/)
 
