@@ -20,7 +20,8 @@
 <a href="https://www.linkedin.com/in/victorsilva01/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/victorsilva01/" height="30" width="40" /></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfernandodev&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfernandodev&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfernandodev&layout=compact)](https://github.com/victorfernandodev/github-readme-stats)
+
 
 
 
