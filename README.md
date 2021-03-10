@@ -20,10 +20,10 @@
 <a href="https://www.linkedin.com/in/victorsilva01/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/victorsilva01/" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfernandodev)](https://github.com/victorfernandodev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfernandodev)](https://github.com/victorfernandodev/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfernandodev&show_icons=true&theme=dracula)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfernandodev&show_icons=true&theme=dracula)
+
 
 
 
