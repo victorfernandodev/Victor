@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfernandodev)](https://github.com/victorfernandodev/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfernandodev&show_icons=true&theme=gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfernandodev&show_icons=true&theme=dracula)
 
 
 
