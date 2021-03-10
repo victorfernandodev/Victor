@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/victorfernandodev/](https://github.com/victorfernandodev/)
 
-- 💬 Ask me about **ASP .NET CORE, Node.Js.**
+- 💬 Ask me about **ASP .NET CORE**
 
 - 📫 How to reach me **https://www.linkedin.com/in/victorsilva01/**
 
