@@ -22,12 +22,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfernandodev)](https://github.com/victorfernandodev/github-readme-stats)
 
-<a href="https://github.com/victorfernandodev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorfernandodev&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/victorfernandodev/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorfernandodev&repo=convoychat" />
-</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfernandodev&show_icons=true&theme=gradient)
+
 
 
 
